@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/indianet/public_html/diya.backofficeindiabulls.com
+    - /bin/cp * $DEPLOYPATH
