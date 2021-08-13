@@ -37,8 +37,7 @@ echo getViewCount($jsonString);
 //     }
 //     $k =0;
 // }
-
-// print_r($arr);
+// print_r($arr); test line
 
 
  ?>
